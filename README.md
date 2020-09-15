@@ -1,8 +1,8 @@
 # UrduChatBot-using-Seq2Seq-Model
 A Sequence to Sequence Model implementation of Urdu Natural Language Processing. Its the very first ChatBot that is able to carry out general conversation in Urdu language with some additional features like:
-      1. Weather/Time
-      2. Jokes
-      3. Poetic Verses
+      - Weather/Time
+      - Jokes
+      - Poetic Verses
       
 Below is the link to download the windows installer. Make sure to install the prequisites before installing. After Installation run the app by the Icon from the desktop and after 40 seconds referesh the page which is opened in your browser.
 - [Urdu Chatbot Windows App](https://drive.google.com/open?id=1Xu12QRpuzE8g37PnZRvLgia7AwO08cjf) 
